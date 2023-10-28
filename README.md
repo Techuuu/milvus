@@ -10,9 +10,9 @@
 
 <img src="https://github.com/milvus-io/artwork/blob/master/horizontal/color/milvus-horizontal-color.png" alt="milvus-logo"/>
 
-Milvus is an open-source vector database built to power embedding similarity search and AI applications. Milvus makes unstructured data search more accessible, and provides a consistent user experience regardless of the deployment environment.
+Milvus is an open-source vector database built to power embedding similarity search and use of AI applications. Milvus makes unstructured data search more accessible, and provides a consistent user experience regardless of the deployment environment.
 
-Milvus 2.0 is a cloud-native vector database with storage and computation separated by design. All components in this refactored version of Milvus are stateless to enhance elasticity and flexibility. For more architecture details, see [Milvus Architecture Overview](https://milvus.io/docs/architecture_overview.md).
+Milvus 2.0 is a cloud-native vector database with storage and computation separated by design. All components in this refactored and upgraded version of Milvus are stateless to enhance elasticity and flexibility. For more architecture details, see [Milvus Architecture Overview](https://milvus.io/docs/architecture_overview.md).
 
 Milvus was released under the [open-source Apache License 2.0](https://github.com/milvus-io/milvus/blob/master/LICENSE) in October 2019. It is currently a graduate project under [LF AI & Data Foundation](https://lfaidata.foundation/).
 
@@ -40,7 +40,7 @@ Milvus was released under the [open-source Apache License 2.0](https://github.co
 
 <details>
   <summary><b>Hybrid search</b></summary>
-  In addition to vectors, Milvus supports data types such as Boolean, integers, floating-point numbers, and more. A collection in Milvus can hold multiple fields for accommodating different data features or properties. Milvus pairs scalar filtering with powerful vector similarity search to offer a modern, flexible platform for analyzing unstructured data. Check https://github.com/milvus-io/milvus/wiki/Hybrid-Search for examples and boolean expression rules.
+  In addition to vectors, Milvus supports data types such as Boolean, integers, floating-point numbers, and more. A collection in Milvus can hold multiple fields for accommodating different data features or properties. Milvus pairs scalar filtering with powerful vector, similarity search to offer a modern, flexible platform for analyzing unstructured data. Check https://github.com/milvus-io/milvus/wiki/Hybrid-Search for examples and boolean expression rules.
   </details>
 
 <details>
@@ -148,7 +148,7 @@ See [Milvus 2.0 vs. 1.x](https://github.com/milvus-io/milvus/blob/master/milvus2
 
 #### Image Search
 
-Images made searchable. Instantaneously return the most similar images from a massive database.
+Images made searchable. Instantly return the most similar images from a massive database.
 
 #### Chatbots
 
@@ -160,7 +160,7 @@ Blazing fast similarity search, substructure search, or superstructure search fo
 
 ## Bootcamps
 
-Milvus [bootcamp](https://github.com/milvus-io/bootcamp) is designed to expose users to both the simplicity and depth of the vector database. Discover how to run benchmark tests as well as build similarity search applications spanning chatbots, recommendation systems, reverse image search, molecular search, and much more.
+Milvus [bootcamp](https://github.com/milvus-io/bootcamp) is designed to expose users to both the simplicity and depth of the vector database. Discover how to run benchmark tests as well as build similarity search applications spanning chatbots, recommendation systems, reverse image search, molecular search and much more.
 
 ## Contributing
 
